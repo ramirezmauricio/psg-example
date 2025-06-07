@@ -1,0 +1,3 @@
+#Escribir una cadena con una frase de una libro o un poema
+#Una de mis frases de videojuegos favoritos
+ezio_auditore = "Cuando era joven disfrutaba de gran libertad pero no la valoraba, tenía tiempo pero no lo disfrutaba y tenía amor pero no lo sentía. Pasarían muchas décadas hasta comprender el significado de los tres y ahora en el ocaso de mi vida la comprensión se ha tornado en satisfacción. Amor, libertad y tiempo, antaño tan desechables son ahora lo que me impulsa, en especial el amor querida mía, para ti, nuestros hijos, nuestros hermanos y hermanas y el basto y maravilloso mundo que nos dió vida, y nos mantiene en ascuas. Con infinito afecto mi Sofia, siempre tuyo, Ezio Auditore"
