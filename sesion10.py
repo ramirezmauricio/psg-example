@@ -692,5 +692,5 @@ print ("Conjunto de conjuntos")
 conjunto = {{'🍅','🍓','🍎'}, {'🍈','🍐','🍏'}} #TypeError: unhashable type: 'set'
 print(conjunto)
 print(type(conjunto))
-
 '''
+
